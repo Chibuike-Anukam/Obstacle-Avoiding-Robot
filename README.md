@@ -129,7 +129,6 @@ The system addresses basic autonomous navigation challenges while serving as a f
 ### Technical Documentation:
 - Arduino code with detailed comments and optimization notes
 - CAD files for 3D-printed wheel designs (Onshape format)
-- Wiring diagrams and component specifications
 
 
 
